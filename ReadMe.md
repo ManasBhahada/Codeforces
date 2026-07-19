@@ -4,4 +4,5 @@ My solutions to Codeforces problems, written in C/C++, as part of consistent DSA
 
 Current rating: 894
 
-Each file corresponds to one problem. Going forward, files are named `[ProblemNumber]-[ShortName].cpp` for clarity.
+19-07-26
+Today I did 3 more questions, was not able to uplode them on my folder in git so just writing a note for it.
